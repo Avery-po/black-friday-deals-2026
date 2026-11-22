@@ -597,6 +597,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Quotion](https://quotion.co/) | Publish Apple Notes as a blog or portfolio on your domain | **30% OFF** all plans — code `BLACKFRIDAY2026` | ✅ |
 | [Citation Rocket](https://citationrocket.com/) | AI search audit — track how AI engines cite your brand | ♾️ **40% OFF** Lifetime ($99 → $59) | ✅ |
 | [Scrap.io](https://scrap.io/) | Google Maps business data extractor | 💸 **50% OFF** annual plans | ✅ |
+| [Highseat](https://highseat.com/pricing?billing=yearly) | Cookieless web analytics with revenue on every breakdown | **40% OFF** first year of any yearly plan, no code needed (Nov 23 – Dec 1) | ✅ |
 
 ### Productivity & Project Management
 
