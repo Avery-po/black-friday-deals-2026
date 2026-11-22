@@ -653,6 +653,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [MeetingDebrief](https://meetingdebrief.com/) | Meeting transcription & AI summary | ♾️ **35% OFF** Lifetime — code `BFCM2026` (Nov 26 – Dec 12) | ✅ |
 | [Shiori](https://shioriapp.io/) | Bookmark manager with full-text search | 💸 ♾️ **50% OFF** Lifetime — code `BLACK2026FRIDAY50` (Nov 12 – Dec 1) | ✅ |
 | [Lasso](https://www.trylasso.online/) | Draw on Mac screen for presentations & demos | 💸 **50% OFF** ($9.99 → $4.99) — code `LASSOBF50` (Nov 21 – Dec 31) | ✅ |
+| [Toolbox for Mac](https://mactoolbox.app/) | 102 native Mac tools in one app (video, PDF, images, transcribe), runs offline | **30% OFF** one-time licences ($19 → $13.30) — code `BLACKFRIDAY30` (Nov 25 – Dec 2) | ✅ |
 
 ### Automation
 
