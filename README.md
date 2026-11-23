@@ -229,6 +229,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [KloudUtils](https://kloudutils.com/) | 55+ developer utilities in one app | **38% OFF** ($79 → $49) — code `BFCM2026_PRO` | ✅ |
 | [Captureze](https://captureze.com/) | Scheduled website screenshots with visual diff tracking | 💸 **Up to 50% OFF** all plans | ✅ |
 | [Warplet](https://warplet.app/) | Connect hosted AI to local MCP servers | **40% OFF** — code `BLACKFRIDAY2026` | ✅ |
+| [VibeShield](https://vibe-checker.appwrite.network/) | Passive 6-phase security scanner (116 checks) for Next.js, Vercel, Lovable, Bolt, Cursor & Supabase web apps (JS secrets, headers, CSP, Supabase RLS, zero signup) | **78% OFF** one-time ($9 → $2) & **83% OFF** 3-App Suite ($29 → $5), auto-applied (Nov 22 – Dec 2) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
