@@ -448,6 +448,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [CVder](https://cvder.app/pricing) | AI job application tool: tailors CV to each job posting + cover letter | 💸 **50% OFF** first payment on any Pro plan — code `BF2026` (Nov 27 – Dec 1) | ⏳ |
 | [Stashkin](https://stashkin.com/) | Export ChatGPT conversations to DOCX, PDF & Markdown | 💸 **50% OFF** Pro Annual — code `BF2026` (Nov 22 – Dec 1) | ✅ |
 | [SupaYatta](https://supayatta.com/) | AI agent monitor — track what agents do on your Mac | 💸 **65% OFF** ($6.99) — code `YATTADEAL` (Nov 9 – Dec 7) | ✅ |
+| [Leelo](https://leelo-ai.com/black-friday) | AI voice studio: text to speech with 1,150+ voices, video dubbing, voice cloning & transcription (web) | ♾️ **25% OFF** Lifetime — Basic $79 → $59 (35,000 credits/month), Pro $199 → $149 (80,000 credits/month), plus **50% more credits** on every pack, no code needed (Nov 24 – Dec 1) | ✅ |
 
 ### AI Image & Video
 
