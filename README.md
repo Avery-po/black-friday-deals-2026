@@ -573,6 +573,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Sleek](https://sleek.page/) | AI mobile app design tool | **48% OFF** Pro yearly ($360 → $189) | ✅ |
 | [Snapperon](https://snapperon.com/) | Screenshot & annotation tool for Mac | 💸 **50% OFF** Pro — code `BLACKFRIDAY26` (Nov 20 – Dec 1) | ✅ |
 | [BabaPic](https://www.babapic.cc/) | Batch image compression for Mac | 💸 **50% OFF** Pro — code `BABAPIC2026` (Nov 22 – Dec 31) | ✅ |
+| [ImageToPES](https://imagetopes.com/#pricing) | Browser PNG/JPG/SVG to Brother .PES, Tajima .DST, .JEF, .EXP & .VP3 embroidery digitizer + free 3D preview & viewer | ♾️ **30% OFF** all one-time credit packs ($2.03–$20.93), auto-applied, first 100/day (Nov 22 – Nov 30 EST) | ✅ |
 
 ### SEO & Marketing
 
