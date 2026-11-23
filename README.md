@@ -376,6 +376,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Wasmer Pro](https://wasmer.io/black-friday-2026) | Deploy websites and apps on Wasmer Edge (WebAssembly hosting) | 💸 **50% OFF** Pro for 12 months — code `BLACKFRIDAY26` ($10 → $5/mo, first-time Pro) (through Nov 30) | ✅ |
 | [PixelVault](https://pixelvault.dev/blackfriday/) | Image hosting API for devs & AI agents: upload via API/CLI/MCP, permanent CDN URL, zero egress, EU storage | 💸 **50% OFF** Starter or Pro first 3 months — code `BLACKFRIDAY2026` (Nov 23 – Nov 30) | ✅ |
 | [Layerbase](https://layerbase.com/pricing) | Serverless databases (Postgres, MySQL, Redis, ClickHouse, Qdrant, Meilisearch) with flat monthly pricing, no egress fees | 💸 **50% OFF** first month — code `BFSOLO26` (Solo) / `BFPRO26` (Pro), first 50 (through Nov 30) | ✅ |
+| [BitHut](https://bithut.app/pricing) | Hosting for apps, bots and sites built with Claude, ChatGPT or Codex; your AI deploys over MCP | 💸 **58% OFF** Plus for 3 months — code `SHASHANKT2-A8S89Y` ($12 → $5/mo, new customers) (Nov 24 – Dec 7) | ✅ |
 
 ### VPS & Servers
 
