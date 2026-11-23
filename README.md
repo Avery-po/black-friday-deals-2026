@@ -496,6 +496,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [CapCut](https://www.capcut.com/tools/capcut-black-friday-sale) | Video editor with AI captions, background removal & templates for short-form content | 💸 **90% OFF** first year of Pro | ✅ |
 | [ClipUGC](https://clipugc.com/black-friday) | UGC-style videos for apps with AI influencers — paste your app link + screen recording | **50% OFF** any plan for first 2 months | ✅ |
 | [Seedance AI](https://www.seeddance.io/pricing) | AI video & image generator with Seedance 2.5, Kling, Veo, Hailuo & more in one workspace | **50% OFF** first year | ✅ |
+| [RapStar Studio](https://rapstarstudio.com/pricing) | Custom AI rap songs & 9:16 music videos: 5-Word Freestyle Studio (8 languages, 4-gear flow switches + acapella drop, no photo) & Lip-Sync Photo Rap MV | **30% OFF** with code `BF2026` — never-expiring credit packs ($9.90 → $6.93 / $24.90 → $17.43 / $59.90 → $41.93), guest orders ($4.90 → $3.43 / $9.90 → $6.93) & 1st mo Pro/Ultra (through Dec 1) | ✅ |
 
 ### AI SEO & Marketing
 
