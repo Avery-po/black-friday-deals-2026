@@ -591,6 +591,8 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [BabaPic](https://www.babapic.cc/) | Batch image compression for Mac | 💸 **50% OFF** Pro — code `BABAPIC2026` (Nov 22 – Dec 31) | ✅ |
 | [ImageToPES](https://imagetopes.com/#pricing) | Browser PNG/JPG/SVG to Brother .PES, Tajima .DST, .JEF, .EXP & .VP3 embroidery digitizer + free 3D preview & viewer | ♾️ **30% OFF** all one-time credit packs ($2.03–$20.93), auto-applied, first 100/day (Nov 22 – Nov 30 EST) | ✅ |
 | [LottieGo](https://lottiego.com/black-friday) | Shrinks Lottie JSON files and exports as MP4, transparent MOV or GIF (Mac) | 💸 ♾️ **50% OFF** Lifetime | ✅ |
+| [Knitting Chart](https://knittingchart.com/pricing) | Browser knitting chart maker for colorwork, lace and cable charts, photo-to-chart conversion and PDF export | ♾️ **32% OFF** Lifetime Pro — $40.12 one-time (was $59), no code, auto-applied (Nov 23 – Nov 30, 2026, Pacific time) | ✅ |
+| [The Cross Stitch Pattern Maker](https://thecrossstitchpatternmaker.com/pricing) | Browser photo-to-cross-stitch tool with stitch editing, DMC floss list and PDF export | ♾️ **32% OFF** Lifetime Pro — $40.12 one-time (was $59), no code, auto-applied (Nov 23 – Nov 30, 2026, Pacific time) | ✅ |
 
 ### SEO & Marketing
 
