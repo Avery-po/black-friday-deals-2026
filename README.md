@@ -1,12 +1,12 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2024%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Total%20Deals-694-blue)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-710-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 694 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
+The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 710 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
 
 > 🌐 **[Browse the deals on our website](https://shashankt255.github.io/black-friday-deals-2026/)** — searchable, filterable, mobile-friendly
 
@@ -36,6 +36,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 
 ### 🆕 What's New (Updated Daily)
 
+- **Nov 24 (PM4)** — Cross-ref pass #7 (trungdq88 + mRs- + greatfrontend): added 15 curated deals — Monitorable, GitKraken, RenewRoster (dev), Carry, Convika, SharpAPI (AI), SurfacedBy (SEO), daisyUI (design), Noteline (productivity), Directify (no-code), Shot Video (video), Zero To Mastery, Code With Mosh, VueSchool, Hello Interview (courses). 710 total deals.
 - **Nov 24 (PM3)** — Cross-ref pass #6 (twf-nikhila): added 15 curated deals — Pagerly, HiAPI, SocialAPIs, Agentwright (dev), Zero-Trace Ship Kit (security), Certificates.dev, Unlearn (courses), Ascope (SEO), Obsidian Starter Kit (productivity), SwiftERM (email), Reviso, GitCMS (WP/no-code), Kira-AI, Legalnaut, Scalelist, LeadMerlin (business). 694 total deals.
 - **Nov 24 (PM2)** — Merged 9 community PRs (#111–#119): Kollab, Vaneform, Moordeck, BetterDisplay, Expandi, ShiftApp, BacklinkGenie, Grai, Tower update. Flipped MasterClass (50% OFF, expires Nov 25!), Disney+ & Hulu ($4.99/mo) ⏳→✅. Updated White Knight Labs details. 679 total deals.
 - **Nov 24 (PM)** — Merged 3 community PRs (#108–#110): Backdrop + Sensei (Cindori), EarlyLore, Termalin. Cross-referenced trungdq88 + twf-nikhila repos (+13 curated deals: Testomato, CtrlOps, Pickode, Stratos, TanStarter, CozyCommerce, GrayGrids, Dypt, CiteReady, Tantra, Posteady, natbox, CSA). Flipped Elegant Themes/Divi, Beehiiv, GeneratePress ⏳→✅. 669 total deals.
@@ -256,6 +257,9 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [HiAPI](https://hiapi.ai/en/promotions/black-friday-2026) | One pay-as-you-go API key for image, video, audio & LLM models (GPT Image, Seedance, Kling, Veo, DeepSeek, Claude) | **Up to 30% extra credit** (top up $500, get up to $650) + 10M free DeepSeek V4.1 Flash tokens/day | ✅ |
 | [SocialAPIs](https://socialapis.io/pricing) | REST API for public Facebook & Instagram data (pages, posts, Marketplace, Ad Library) | **30% OFF** first 3 months — code `BLACKDATA30` (new customers) | ✅ |
 | [Agentwright](https://agentwright.app) | Next.js starter kit for Claude-powered agent SaaS with MCP, cost metering, auth & billing | ♾️ **$50 OFF** one-time license ($149 → $99) — code `LAUNCH` (first 50 licenses) | ✅ |
+| [Monitorable](https://monitorable.io/) | Linux server monitoring — OpenTelemetry agent, dashboard & alerting, free for 3 servers | **40% OFF** recurring — code `BF2026` (first 200 subs, through Dec 1) | ✅ |
+| [GitKraken](https://www.gitkraken.com/pricing) | Git client with visual commit graph, merge conflict editor and GitLens for VS Code | **60% OFF** first year — code `BLACKFRIDAY2026` | ✅ |
+| [RenewRoster](https://renewroster.com/pricing) | Domain & SSL expiry tracking for agencies + MCP server for Claude/ChatGPT/Grok | 💸 **50% OFF** annual — Starter $75/yr, Agency $195/yr (Nov 3 – Dec 2) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
@@ -485,6 +489,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Transcribee](https://transcribee.io/black-friday/) | AI transcription in 90+ languages with meeting recorder for Zoom, Meet & Teams | **40% OFF** all plans | ✅ |
 | [Diagramly](https://diagramly.ai/pricing) | Turn text, screenshots & whiteboard photos into editable diagrams with AI | 💸 **70% OFF** first year | ✅ |
 | [FlowSpeak](https://smolkapps.com/flowspeak/) | Local Hold-Ctrl push-to-talk dictation desktop app for macOS & Linux | ♾️ **34% OFF** Lifetime Pro ($29 → $19 one-time, 3 computers, no code, Nov 24 – Dec 1) | ✅ |
+| [Carry](https://carry.md/) | Save ChatGPT, Claude, Gemini & Grok chats as Markdown to Obsidian or local folder (Chrome/Edge) | **$20 OFF** lifetime $79 → $59 — code `BLACKFRIDAY20` | ✅ |
 
 ### AI Image & Video
 
@@ -522,6 +527,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Seedance AI](https://www.seeddance.io/pricing) | AI video & image generator with Seedance 2.5, Kling, Veo, Hailuo & more in one workspace | **50% OFF** first year | ✅ |
 | [RapStar Studio](https://rapstarstudio.com/pricing) | Custom AI rap songs & 9:16 music videos: 5-Word Freestyle Studio (8 languages, 4-gear flow switches + acapella drop, no photo) & Lip-Sync Photo Rap MV | **30% OFF** with code `BF2026` — never-expiring credit packs ($9.90 → $6.93 / $24.90 → $17.43 / $59.90 → $41.93), guest orders ($4.90 → $3.43 / $9.90 → $6.93) & 1st mo Pro/Ultra (through Dec 1) | ✅ |
 | [Narva](https://narva.app/#pricing) | Topic, script or voiceover in, finished faceless YouTube video out | **30% OFF** first month of any plan — code `NARVA30` (Nov 23 – Nov 30) | ✅ |
+| [Shot Video](https://shot.video/black-friday) | Multi-camera studio from your laptop + phones — AI makes first edit, no app to install | **80% OFF** first year — Creator $39, Pro $79, no code (first 100 buyers, Nov 20 – Dec 1) | ✅ |
 
 ### AI SEO & Marketing
 
@@ -539,6 +545,8 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [CiteReady](https://citeready-checker.appwrite.network/) | AI search visibility auditor — check how AI search engines cite your content | ♾️ **83% OFF** Lifetime $12 → $2 | ✅ |
 | [Tantra](https://deals.usetantra.com/) | AI outreach tool for email, LinkedIn & WhatsApp campaigns | **50% OFF for life** — code `TANTRA50` | ✅ |
 | [BacklinkGenie](https://backlinkgenie.com/pricing/) | AI link-building outreach agent: finds posts where you belong, pitches editors from a managed mailbox, follows up and checks links stay live (web + MCP) | 💸 **30% OFF** monthly or **50% OFF** yearly for as long as you stay subscribed (Starter $99 → $69.30/mo or $990 → $495/yr) — auto-applied, codes `BFCM30` / `BFCM50` (Nov 24 – Dec 31, 2026) | ✅ |
+| [SharpAPI](https://sharpapi.com/en/pricing) | AI workflow automation API: product descriptions, resume parsing, SEO tags and more | **40% OFF** every plan for 12 months — code `BF2026` (ends Nov 30) | ✅ |
+| [Convika](https://convika.com/black-friday/) | Turn AI-generated HTML into shareable links with analytics + MCP server for Claude/Codex | **50% OFF** Pro yearly $108 → $54/yr, no code (Nov 23 – Dec 31) | ✅ |
 
 ### No BF Deal Expected
 
@@ -568,6 +576,10 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Networking: Internet, Cloud, and Everything in Between](https://classes.pracnet.net/courses/networking) | Vendor-neutral networking course from first principles | 💸 ♾️ **51% OFF** lifetime ($59 → $29) — code `BF2026NET` (Nov 15 – Dec 6) | ✅ |
 | [Certificates.dev](https://certificates.dev/black-friday) | Proctored developer certifications for Vue.js, Nuxt, React, Angular, TypeScript, Laravel & AI | 💸 **Up to 60% OFF** bundles ($199 cert+training); All Access Pass $999 (reg $5,000) | ✅ |
 | [Unlearn](https://unlearn.dev/pricing) | Courses, workflows & agent skills for building, reviewing & shipping with AI agents | 💸 ♾️ **56% OFF** Unlearn Plus Lifetime ($899 → $399); or one pass with certs + live AI bootcamp $999 | ✅ |
+| [Zero To Mastery](https://zerotomastery.io/courses/) | Programming, web dev, ML and DevOps courses | **66% OFF** annual membership — code `BFCM26` | ✅ |
+| [Code With Mosh](https://codewithmosh.com/) | Video courses on programming, web dev and software engineering | 💸 **Lifetime access $199** (reg $499), single courses also discounted (ends ~Dec 1) | ✅ |
+| [VueSchool](https://vueschool.io/) | Vue.js and Nuxt courses from core-team members | 💸 **87% OFF** early bird $149 (reg $1,200) — Premium + Mastering Nuxt + Mastering Pinia | ✅ |
+| [Hello Interview](https://www.hellointerview.com/) | System design practice and writeups by ex-Meta and ex-Amazon staff engineers | **35% OFF** yearly Premium ($119 → $77), lifetime $299 (reg $399), no code (ends ~Nov 28) | ✅ |
 
 ### Cybersecurity Training
 
@@ -628,6 +640,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Knitting Chart](https://knittingchart.com/pricing) | Browser knitting chart maker for colorwork, lace and cable charts, photo-to-chart conversion and PDF export | ♾️ **32% OFF** Lifetime Pro — $40.12 one-time (was $59), no code, auto-applied (Nov 23 – Nov 30, 2026, Pacific time) | ✅ |
 | [The Cross Stitch Pattern Maker](https://thecrossstitchpatternmaker.com/pricing) | Browser photo-to-cross-stitch tool with stitch editing, DMC floss list and PDF export | ♾️ **32% OFF** Lifetime Pro — $40.12 one-time (was $59), no code, auto-applied (Nov 23 – Nov 30, 2026, Pacific time) | ✅ |
 | [Backdrop](https://cindori.com/backdrop) | Interactive live wallpapers for your Mac's Lock Screen and desktop | ♾️ **30% OFF** Lifetime $29.99 → $20.99, no code needed (Nov 24 – Dec 1) | ✅ |
+| [daisyUI](https://daisyui.com/store/) | Tailwind CSS UI component library — official templates and themes | **Up to 45% OFF** — code `BF26TZXLP` (discount drops each day) | ✅ |
 
 ### SEO & Marketing
 
@@ -658,6 +671,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Posteady](https://www.posteady.com/black-friday) | AI social media workspace — schedule, create & manage content across platforms | **50% OFF** annual — code `BF26` | ✅ |
 | [Vaneform](https://vaneform.com/pricing) | Website traffic checker: visits, traffic sources, countries, ranking keywords & backlinks for any domain, plus API & MCP server | **20% OFF** Pro Annual Year 1 (~~$99~~ $79/yr [$6.58/mo]; renews at $99/yr; Monthly $12/mo unchanged) — code `VFBF2026`, auto-applied for new Pro Annual buyers (Nov 24 – Nov 30, 2026 PT) | ✅ |
 | [Ascope](https://ascope.app/) | ASO tool for Mac & Windows: App Store / Google Play keyword rank tracking in 50+ countries with MCP server | ♾️ **63% OFF** lifetime licence ($189 → $69), auto-applied | ✅ |
+| [SurfacedBy](https://surfacedby.com/pricing) | Track which brands ChatGPT, Perplexity & Gemini recommend — monitor AI search citations | **50% OFF** first 3 months or 25% OFF first year, no code (through Nov 30) | ✅ |
 
 ### Productivity & Project Management
 
@@ -723,6 +737,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Sensei](https://cindori.com/sensei) | System performance monitoring for the Mac | 💸 ♾️ **50% OFF** $59 → $29.50, no code needed (Nov 24 – Dec 1) | ✅ |
 | [Dypt](https://dypt.app/promo) | Task planner that breaks big tasks into steps, AI suggests missing ones, CLI for coding agents | **50% OFF** first year annual — code `BLACKFRIDAY` (Nov 20 – Nov 30) | ✅ |
 | [BetterDisplay](https://betterdisplay.pro/) | Control scaling, brightness and virtual screens from the Mac menu bar. | ♾️ **33% OFF** Pro (one-time purchase with at least 2 years of free updates) — code `BFCM2026` (Nov 26 – Dec 1, 2026) | ✅ |
+| [Noteline](https://noteline.io/pricing) | Markdown editor for Mac, Windows & Linux — plain .md files, Pandoc & Typst built in, no account | **50% OFF** one-time license $9.99 → $4.99 (through Nov 30) | ✅ |
 
 ### Automation
 
@@ -808,6 +823,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Siter.io](https://siter.io/) | No-code website builder with visual editor | **35% OFF** — code `BLACKFRIDAY35` (through Dec 1) | ✅ |
 | [App14](https://app14.appetite.studio/black-friday) | Done-for-you custom iOS & Android app, built and submitted in 14 days 🇬🇧 | **75% OFF** — Starter £3,999 → £999, Advanced £6,999 → £1,999, no code needed (until Nov 30) | ✅ |
 | [Systeme.io](https://blackfriday.systeme.io/) | All-in-one funnel builder, email marketing & course platform | **40% OFF** Startup $170/yr | ✅ |
+| [Directify](https://directify.app/founders) | No-code directory builder with MCP server for Claude/ChatGPT, custom domain & SEO | 💸 **56% OFF** 2 years Growth $1,368 → $599, no code (Nov 24 – Dec 1, 20 spots) | ✅ |
 | [HextaUI Pro](https://hextaui.com/) | Modern React/Next.js UI components library | **Up to 40% OFF** — $49 early bird | ✅ |
 | [GitCMS](https://gitcms.dev/) | CMS for agencies moving client sites off WordPress/Webflow/Framer to AI-built code in your repo | ♾️ **25% OFF** lifetime site licences for agencies (5+ sites, $89 → $66.75 each) — code `BF26` | ✅ |
 | [Durable](https://durable.com/) | AI website builder for small businesses | See offer | ✅ |
