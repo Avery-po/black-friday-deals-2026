@@ -462,6 +462,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Wordfully](https://www.wordfully.ai/) | AI grammar checker & rephraser for everyday writing (web & Chrome) | **50% OFF** first Pro payment — code `BLACKFRIDAY2026` | ✅ |
 | [Transcribee](https://transcribee.io/black-friday/) | AI transcription in 90+ languages with meeting recorder for Zoom, Meet & Teams | **40% OFF** all plans | ✅ |
 | [Diagramly](https://diagramly.ai/pricing) | Turn text, screenshots & whiteboard photos into editable diagrams with AI | 💸 **70% OFF** first year | ✅ |
+| [FlowSpeak](https://smolkapps.com/flowspeak/) | Local Hold-Ctrl push-to-talk dictation desktop app for macOS & Linux | ♾️ **34% OFF** Lifetime Pro ($29 → $19 one-time, 3 computers, no code, Nov 24 – Dec 1) | ✅ |
 
 ### AI Image & Video
 
