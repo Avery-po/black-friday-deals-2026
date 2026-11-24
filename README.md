@@ -239,6 +239,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [TailTemplates](https://tailtemplates.com/) | Premium Tailwind CSS templates for startups, SaaS & landing pages | 💸 ♾️ **80% OFF** Lifetime access | ✅ |
 | [ShadcnSpace](https://shadcnspace.com/) | 1,400+ shadcn/ui components, blocks, templates, Figma kits for React & Next.js | **40% OFF** | ✅ |
 | [12happy](https://www.12hpy.com/deals/black-friday) | Uptime monitoring for websites, APIs & cron jobs, with alerts and status pages | **3 months of Pro FREE** (normally $15/mo) — code `BLACKFRIDAY`, no card, first 100 accounts (Nov 22 – Dec 1) | ✅ |
+| [Termalin](https://termal.in/pricing/?utm_source=bf-shashankt&utm_medium=referral&utm_campaign=bf2026) | SSH, SFTP and RDP client that lets ChatGPT and Claude run commands on your servers without SSH keys | **16 months for the price of 12** on yearly Pro ($96, $8 → $6/mo) + 100 GB cloud storage, auto-applied (Nov 23 – Dec 1) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
