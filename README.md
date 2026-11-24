@@ -1,12 +1,12 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2024%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Total%20Deals-652-blue)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-656-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 615 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
+The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 656 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
 
 > 🌐 **[Browse the deals on our website](https://shashankt255.github.io/black-friday-deals-2026/)** — searchable, filterable, mobile-friendly
 
@@ -36,6 +36,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 
 ### 🆕 What's New (Updated Daily)
 
+- **Nov 24 (PM)** — Merged 3 community PRs (#108–#110): Backdrop + Sensei (Cindori), EarlyLore, Termalin. Flipped Elegant Themes/Divi, Beehiiv, GeneratePress ⏳→✅. 656 total deals.
 - **Nov 24** — Merged 6 community PRs (#101–#104, #106–#107): RapStar Studio, 8kSec code fix, BitHut, Narva, Knitting Chart + Cross Stitch Pattern Maker, FlowSpeak. Added Invoice Mama from issue #105. Added AppSecEngineer, CrawlRaven, Timemator, Starlie, Clappia. Flipped No Starch Press, WPForms, palmscreen ⏳→✅. 652 total deals.
 - **Nov 23 (PM2)** — Added 15 curated deals: NextjsTemplates, TailTemplates, ShadcnSpace (dev), CapCut (90% OFF!), ClipUGC, Seedance AI (AI video), DuoTyping, Wordfully, Transcribee, Diagramly (AI writing), LottieGo (design), SocialBee (70% OFF marketing), Moosend (email), Jotform (60% OFF productivity), LiveReacting (streaming). Flipped OnlySecurity ⏳→✅. 638 total deals.
 - **Nov 23 (PM)** — Merged 7 community PRs (#90–#94, #97–#98): Toolbox for Mac, Highseat, Leelo, VibeShield, OmniForge Launch Suite, DataCheck, ImageToPES. Added CheckCam from issue #95. Flipped Options Matrix Pro + DigiCard Pro ⏳→✅. Updated No Starch Press (40% OFF, Nov 24–29). Cleaned ref/UTM params. 623 total deals.
@@ -239,7 +240,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [TailTemplates](https://tailtemplates.com/) | Premium Tailwind CSS templates for startups, SaaS & landing pages | 💸 ♾️ **80% OFF** Lifetime access | ✅ |
 | [ShadcnSpace](https://shadcnspace.com/) | 1,400+ shadcn/ui components, blocks, templates, Figma kits for React & Next.js | **40% OFF** | ✅ |
 | [12happy](https://www.12hpy.com/deals/black-friday) | Uptime monitoring for websites, APIs & cron jobs, with alerts and status pages | **3 months of Pro FREE** (normally $15/mo) — code `BLACKFRIDAY`, no card, first 100 accounts (Nov 22 – Dec 1) | ✅ |
-| [Termalin](https://termal.in/pricing/?utm_source=bf-shashankt&utm_medium=referral&utm_campaign=bf2026) | SSH, SFTP and RDP client that lets ChatGPT and Claude run commands on your servers without SSH keys | **16 months for the price of 12** on yearly Pro ($96, $8 → $6/mo) + 100 GB cloud storage, auto-applied (Nov 23 – Dec 1) | ✅ |
+| [Termalin](https://termal.in/pricing/) | SSH, SFTP and RDP client that lets ChatGPT and Claude run commands on your servers without SSH keys | **16 months for the price of 12** on yearly Pro ($96, $8 → $6/mo) + 100 GB cloud storage, auto-applied (Nov 23 – Dec 1) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
@@ -709,7 +710,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | Product | Description | Deal | Status |
 |---------|-------------|------|--------|
 | [Kit (ConvertKit)](https://kit.com/) | Creator email marketing | ~25% OFF first year Pro annual | ⏳ |
-| [Beehiiv](https://www.beehiiv.com/) | Newsletter platform | **20% OFF** annual | ⏳ |
+| [Beehiiv](https://www.beehiiv.com/) | Newsletter platform | **20% OFF** any annual plan — code `BFCM2026` | ✅ |
 | [Sender](https://www.sender.net/) | Email & SMS marketing with automation | 💸 **60% OFF** Sender Pro 24 months (through Dec 1) | ✅ |
 | [Broadcast](https://sendbroadcast.net/) | Self-hosted email marketing (newsletters & automations) | **$100 OFF** one-time $250 → $150 — code `BLACKFRIDAY26` (through Dec 1) | ✅ |
 | [Mailzzy](https://mailzzy.com/) | Email marketing platform with automation | 💸 **70% OFF** first year annual, no code | ✅ |
@@ -727,9 +728,9 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [ThemeAtelier](https://themeatelier.net/) | Premium WP plugins + themes | **40% OFF** yearly / **60% OFF** lifetime (Nov 6 – Dec 15) | ✅ |
 | Pinnacle Themes | Premium WordPress themes | **Up to 50% OFF** (Nov 1 – Dec 31) | ✅ |
 | [Thrive Themes](https://thrivethemes.com/) | WP themes + conversion-focused tools | **Up to 60% OFF** (through Dec 1) | ✅ |
-| [Elegant Themes / Divi](https://www.elegantthemes.com/) | WP page builder & theme | **Up to 81% OFF** lifetime bundles | ⏳ |
+| [Elegant Themes / Divi](https://www.elegantthemes.com/) | WP page builder & theme | **Up to 80% OFF** Divi Pro & lifetime bundles + free prizes (Nov 24 – Nov 30) | ✅ |
 | [Kadence WP](https://www.kadencewp.com/) | Performance-focused WP theme | **Up to 40% OFF** | ⏳ |
-| [GeneratePress](https://generatepress.com/) | Developer-focused theme | **Up to 25% OFF** | ⏳ |
+| [GeneratePress](https://generatepress.com/) | Developer-focused WP theme | **$40 OFF** GP One first year — 1 site $59, 10 sites $109, 100 sites $159, Lifetime $556 | ✅ |
 
 ### WordPress Plugins
 
