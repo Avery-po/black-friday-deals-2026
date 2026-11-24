@@ -1,12 +1,12 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2024%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Total%20Deals-679-blue)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-694-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 679 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
+The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 694 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
 
 > 🌐 **[Browse the deals on our website](https://shashankt255.github.io/black-friday-deals-2026/)** — searchable, filterable, mobile-friendly
 
@@ -36,6 +36,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 
 ### 🆕 What's New (Updated Daily)
 
+- **Nov 24 (PM3)** — Cross-ref pass #6 (twf-nikhila): added 15 curated deals — Pagerly, HiAPI, SocialAPIs, Agentwright (dev), Zero-Trace Ship Kit (security), Certificates.dev, Unlearn (courses), Ascope (SEO), Obsidian Starter Kit (productivity), SwiftERM (email), Reviso, GitCMS (WP/no-code), Kira-AI, Legalnaut, Scalelist, LeadMerlin (business). 694 total deals.
 - **Nov 24 (PM2)** — Merged 9 community PRs (#111–#119): Kollab, Vaneform, Moordeck, BetterDisplay, Expandi, ShiftApp, BacklinkGenie, Grai, Tower update. Flipped MasterClass (50% OFF, expires Nov 25!), Disney+ & Hulu ($4.99/mo) ⏳→✅. Updated White Knight Labs details. 679 total deals.
 - **Nov 24 (PM)** — Merged 3 community PRs (#108–#110): Backdrop + Sensei (Cindori), EarlyLore, Termalin. Cross-referenced trungdq88 + twf-nikhila repos (+13 curated deals: Testomato, CtrlOps, Pickode, Stratos, TanStarter, CozyCommerce, GrayGrids, Dypt, CiteReady, Tantra, Posteady, natbox, CSA). Flipped Elegant Themes/Divi, Beehiiv, GeneratePress ⏳→✅. 669 total deals.
 - **Nov 24** — Merged 6 community PRs (#101–#104, #106–#107): RapStar Studio, 8kSec code fix, BitHut, Narva, Knitting Chart + Cross Stitch Pattern Maker, FlowSpeak. Added Invoice Mama from issue #105. Added AppSecEngineer, CrawlRaven, Timemator, Starlie, Clappia. Flipped No Starch Press, WPForms, palmscreen ⏳→✅. 652 total deals.
@@ -251,6 +252,10 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [GrayGrids](https://graygrids.com/) | Developer templates, UI kits, boilerplates for Bootstrap, Tailwind & React | **Up to 80% OFF** — code `BLFCM2026` (Nov 16 – Dec 1) | ✅ |
 | [Moordeck](https://moordeck.com/pricing) | Local-first anti-detect browser with Zero-CDP AI control, 12-tool local MCP & CLI, macOS Apple Silicon & Linux x64 (Windows coming soon) | **25% OFF** Pro/Team Annual Year 1 (Pro ~~$108~~ **$81/yr** [$6.75/mo], Team ~~$348~~ **$261/yr** [$21.75/mo, 5 seats]; renews at $108/$348) — code `BF2026` auto-applied + **Founding Solo Lifetime ~~$129~~ $79** (39% off, first 200 seats) (Nov 24 – Nov 30, 2026 PT) | ✅ |
 | [Grai](https://grai.page) | Offline cadence gate that flags AI-writing tells in drafts before clients do | **30% OFF** first billing cycle, code `BF2026` (Nov 24 – Nov 30) | ✅ |
+| [Pagerly](https://pagerly.io) | On-call schedules, rotations, alerting & incident response inside Slack and Teams | **30% OFF** any plan for first 12 months — code `PAGERLYBF30` | ✅ |
+| [HiAPI](https://hiapi.ai/en/promotions/black-friday-2026) | One pay-as-you-go API key for image, video, audio & LLM models (GPT Image, Seedance, Kling, Veo, DeepSeek, Claude) | **Up to 30% extra credit** (top up $500, get up to $650) + 10M free DeepSeek V4.1 Flash tokens/day | ✅ |
+| [SocialAPIs](https://socialapis.io/pricing) | REST API for public Facebook & Instagram data (pages, posts, Marketplace, Ad Library) | **30% OFF** first 3 months — code `BLACKDATA30` (new customers) | ✅ |
+| [Agentwright](https://agentwright.app) | Next.js starter kit for Claude-powered agent SaaS with MCP, cost metering, auth & billing | ♾️ **$50 OFF** one-time license ($149 → $99) — code `LAUNCH` (first 50 licenses) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
@@ -361,6 +366,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Paperweight](https://www.paperweight.email/pricing) | Local-first privacy app that maps your digital footprint from your inbox and helps clean up forgotten accounts | ♾️ **Lifetime Pro $149** one-time (regular Pro $60/yr), no code (Nov 16 – Dec 1) | ✅ |
 | [SmartUsername Pro](https://smartusername.com/black-friday/) | WordPress plugin that hides login names from author URLs, REST API & oEmbed | 💸 ♾️ **60% OFF** yearly plans, Agency lifetime $299 → $149, no code (through Dec 1) | ✅ |
 | [SimpleumSafe](https://simpleum.com/) | Encrypted file safe for Mac with AES-256 | **30% OFF** all plans | ✅ |
+| [Zero-Trace Ship Kit](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/) | Git hooks that stop commit/push when leaked keys, home paths or emails are found, plus clean release ZIPs | ♾️ **40% OFF** Solo licence — code `FOUNDER10` (first 100 uses) | ✅ |
 
 ## ☁️ Cloud, Hosting & Domains
 
@@ -560,6 +566,8 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Udacity](https://www.udacity.com/) | Nanodegree programs (cloud, AI, data engineering) | 💸 **Up to 55% OFF** | ✅ |
 | [Design Gurus](https://www.designgurus.io/) | System design & coding interview courses | 💸 **70% OFF** (up to 90% OFF All Courses bundle) | ✅ |
 | [Networking: Internet, Cloud, and Everything in Between](https://classes.pracnet.net/courses/networking) | Vendor-neutral networking course from first principles | 💸 ♾️ **51% OFF** lifetime ($59 → $29) — code `BF2026NET` (Nov 15 – Dec 6) | ✅ |
+| [Certificates.dev](https://certificates.dev/black-friday) | Proctored developer certifications for Vue.js, Nuxt, React, Angular, TypeScript, Laravel & AI | 💸 **Up to 60% OFF** bundles ($199 cert+training); All Access Pass $999 (reg $5,000) | ✅ |
+| [Unlearn](https://unlearn.dev/pricing) | Courses, workflows & agent skills for building, reviewing & shipping with AI agents | 💸 ♾️ **56% OFF** Unlearn Plus Lifetime ($899 → $399); or one pass with certs + live AI bootcamp $999 | ✅ |
 
 ### Cybersecurity Training
 
@@ -649,6 +657,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Highseat](https://highseat.com/pricing?billing=yearly) | Cookieless web analytics with revenue on every breakdown | **40% OFF** first year of any yearly plan, no code needed (Nov 23 – Dec 1) | ✅ |
 | [Posteady](https://www.posteady.com/black-friday) | AI social media workspace — schedule, create & manage content across platforms | **50% OFF** annual — code `BF26` | ✅ |
 | [Vaneform](https://vaneform.com/pricing) | Website traffic checker: visits, traffic sources, countries, ranking keywords & backlinks for any domain, plus API & MCP server | **20% OFF** Pro Annual Year 1 (~~$99~~ $79/yr [$6.58/mo]; renews at $99/yr; Monthly $12/mo unchanged) — code `VFBF2026`, auto-applied for new Pro Annual buyers (Nov 24 – Nov 30, 2026 PT) | ✅ |
+| [Ascope](https://ascope.app/) | ASO tool for Mac & Windows: App Store / Google Play keyword rank tracking in 50+ countries with MCP server | ♾️ **63% OFF** lifetime licence ($189 → $69), auto-applied | ✅ |
 
 ### Productivity & Project Management
 
@@ -662,6 +671,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [palmscreen](https://www.palmscreen.app/black-friday/) | Native Mac screen recorder with auto-zoom, editor and screenshots | **34% OFF** ($19 instead of $29, one-time) — code `BLACKWEEK` (Nov 23 – Nov 30) | ✅ |
 | [CleanClip](https://pricing.cleanclip.cc/src) | Mac clipboard manager | **30% OFF** — Standard $19.99 → $13.99, Pro $29.99 → $20.99, code `BF2026` (through Dec 15, 2026) | ✅ |
 | [ScreenSage Pro](https://screensage.pro) | Native Mac screen recorder | **Up to 53% OFF** — Pro $149 → $79.90 code `BFS2026P` (46%); Lifetime $449 → $209.90 code `BFS2026L` (53%) (through Dec 15, 2026) | ✅ |
+| [Obsidian Starter Kit](https://www.store.dsebastien.net/product/obsidian-starter-kit/) | Ready-to-use Obsidian vault with note templates, journaling, goals/tasks boards & AI layer | ♾️ **20% OFF** (€279.99 → €223.99) — code `BLACKFRIDAY2026` | ✅ |
 | [Timemator](https://timemator.com/) | Automatic time tracking for Mac — records hours by project files, apps & websites | ♾️ **50% OFF** Lifetime ($39 → $19.50) — code `TM-BLACKFRIDAY26` | ✅ |
 | [Starlie](https://getstarlie.com/) | Native Mac client for Jira Cloud & self-hosted: JQL search, sprint boards, offline | ♾️ **50% OFF** Lifetime ($49.99 → $24.99) — Nov 24–Dec 1 | ✅ |
 | [Parallels Desktop](https://www.parallels.com/) | Run Windows on Mac (VM) | **Up to 50% OFF** first year — Standard & Pro editions | ✅ |
@@ -737,6 +747,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Moosend](https://moosend.com/) | Email marketing & automation platform | 💸 **50% OFF** Pro plan — code `BFCM50` | ✅ |
 | [Terlido](https://terlido.com/) | Cold email & newsletters with warmup and AI agent | **40% OFF** 12 months — code `BF2026` | ✅ |
 | [Sequenzy](https://www.sequenzy.com/) | Lifecycle email tool for SaaS products | **30% OFF** for a full year — code `BLACKFRIDAY` | ✅ |
+| [SwiftERM](https://swifterm.com/black-friday/) | Autonomous individualisation for ecommerce email marketing | **40% OFF** first 12 months — code `BLACKFRIDAY26` (new customers, after 30-day free trial) | ✅ |
 
 ## 🌐 WordPress & No-Code
 
@@ -778,6 +789,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [FormNX](https://formnx.com/) | No-code WordPress form builder | 💸 **50% OFF** | ✅ |
 | [MilliCache Pro](https://www.millipress.com/millicache-pro/) | Full-page caching for WordPress in memory and at the edge, clears only what changed | **25% OFF** first year — code `BF26` (Nov 24 – Dec 1) | ✅ |
 | [WPOS](https://wpos.ai/black-friday/) | AI agent inside wp-admin for WordPress sites on any host (Gutenberg, Elementor, Divi) | 💸 **50% OFF** site licences for 2 months ($25 → $12.50/site/mo) + 15,000 free credits for new accounts — code `FRIDAY50` (Nov 11 – Nov 30) | ✅ |
+| [Reviso](https://getreviso.io/pricing/) | Client feedback for WordPress: clients pin comments on the live page, resolve in Bricks/Elementor/Gutenberg | **25% OFF** first year — code `BLACKFRIDAY25` (Pro $89 → $66.75/yr, Agency $279 → $209.25/yr) | ✅ |
 
 ### No-Code Platforms
 
@@ -797,6 +809,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [App14](https://app14.appetite.studio/black-friday) | Done-for-you custom iOS & Android app, built and submitted in 14 days 🇬🇧 | **75% OFF** — Starter £3,999 → £999, Advanced £6,999 → £1,999, no code needed (until Nov 30) | ✅ |
 | [Systeme.io](https://blackfriday.systeme.io/) | All-in-one funnel builder, email marketing & course platform | **40% OFF** Startup $170/yr | ✅ |
 | [HextaUI Pro](https://hextaui.com/) | Modern React/Next.js UI components library | **Up to 40% OFF** — $49 early bird | ✅ |
+| [GitCMS](https://gitcms.dev/) | CMS for agencies moving client sites off WordPress/Webflow/Framer to AI-built code in your repo | ♾️ **25% OFF** lifetime site licences for agencies (5+ sites, $89 → $66.75 each) — code `BF26` | ✅ |
 | [Durable](https://durable.com/) | AI website builder for small businesses | See offer | ✅ |
 | [Liite Lifetime Bundle](https://liite.co/lifetime) | Liite Pro (AI page builder, custom domain) plus lifetime licenses for SmartSpreadsheets, PicBolt Pro, UtilBolt, Picify and MacSuite (14 Mac apps) | 💸 ♾️ **83% OFF** — **$249 one-time** vs $1,444 separately, no code needed (first 500 bundles, until Nov 30) | ✅ |
 | [Checkout Page](https://checkoutpage.com/black-friday) | Checkout pages, events and forms for tickets, memberships and donations, paid to your own Stripe account | **30% OFF** every paid plan, first 6 months on monthly billing or first year on yearly billing, no code needed (Nov 23 - Nov 30) | ✅ |
@@ -938,6 +951,10 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Pitchlist](https://pitchlist.serpwrap.com) | Local business leads by city and type with phone, address and rating (CSV, XLSX, JSON); Claude Code integration support; pay once | 💸 **60% OFF** every lead pack, code `BLACKFRIDAY60` (through Nov 30) | ✅ |
 | [AY Tenders](https://tenders.ayskilllab.com/#pricing) | Public tender notices from the EU (TED), UK, Ireland and US federal, sorted into seven sectors, with alerts | 💸 **50% OFF** first month on monthly plans — Tenders $19 → $9.50, Tenders + Grants $24 → $12, auto-applied, no code, then normal price (Nov 22 – Nov 30) | ✅ |
 | [Expandi](https://expandi.io/bfcm-promo/) | LinkedIn and email outreach automation in one campaign, for sales teams, founders and lead-gen agencies | 💸 **Up to 77% OFF** for 12 months — $79 → $53 per LinkedIn account/mo billed yearly, down to $23 at 50+ accounts, no code needed, 7-day free trial (Nov 20 – Dec 4) | ✅ |
+| [Kira-AI](https://getkira.com/black-friday) | AI voice-interviewer: interviews every applicant and delivers evidence with timestamps | 💸 **50% OFF** for 12 months — Starter $149 → $74/mo, Professional $349 → $174/mo — code `BF-DIRECTORY` | ✅ |
+| [Legalnaut](https://legalnaut.com/) | AI case workspace for litigation: chronology, contradictions, proof chart & deadlines linked to source pages | **30% OFF** any plan for first 12 months — code `BF2026` | ✅ |
+| [Scalelist](https://scalelist.com/black-friday/) | Email & mobile number finder for outbound sales | **40% OFF** annual plans (12 months for the price of 7) — code `BF40` | ✅ |
+| [LeadMerlin](https://leadmerlin.com/black-friday/) | Local business leads for AI agents & automations with owner names, emails, phone line types & site tech | **40% OFF** first year — code `BF2026` (Starter $348 → $208.80/yr, Pro $468 → $280.80/yr) | ✅ |
 
 ### E-Signature
 
