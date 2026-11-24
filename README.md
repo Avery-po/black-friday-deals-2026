@@ -36,7 +36,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 
 ### 🆕 What's New (Updated Daily)
 
-- **Nov 24** — Merged 6 community PRs (#101–#104, #106–#107): RapStar Studio, 8kSec code fix, BitHut, Narva, Knitting Chart + Cross Stitch Pattern Maker, FlowSpeak. Added Invoice Mama from issue #105. 647 total deals.
+- **Nov 24** — Merged 6 community PRs (#101–#104, #106–#107): RapStar Studio, 8kSec code fix, BitHut, Narva, Knitting Chart + Cross Stitch Pattern Maker, FlowSpeak. Added Invoice Mama from issue #105. Flipped No Starch Press, WPForms, palmscreen ⏳→✅. 647 total deals.
 - **Nov 23 (PM2)** — Cross-ref pass #4 against 8 competitor repos. Added 15 curated deals: NextjsTemplates, TailTemplates, ShadcnSpace (dev), CapCut (90% OFF!), ClipUGC, Seedance AI (AI video), DuoTyping, Wordfully, Transcribee, Diagramly (AI writing), LottieGo (design), SocialBee (70% OFF marketing), Moosend (email), Jotform (60% OFF productivity), LiveReacting (streaming). Flipped OnlySecurity ⏳→✅ (confirmed at onlysecurity.com). Checked 3 new repos (Somi-AI, deal-signal, deal-radar). 638 total deals.
 - **Nov 23 (PM)** — Merged 7 community PRs (#90–#94, #97–#98): Toolbox for Mac, Highseat, Leelo, VibeShield, OmniForge Launch Suite, DataCheck, ImageToPES. Added CheckCam from issue #95. Flipped Options Matrix Pro + DigiCard Pro ⏳→✅. Updated No Starch Press (40% OFF, Nov 24–29). Cleaned ref/UTM params. 623 total deals.
 - **Nov 23** — Added 38 new deals across all categories. Flipped Humble Bundle, TradingView, Udemy, Paste ⏳→✅. Merged 4 community PRs (#86–#89): Waitlyze, AY Tenders + AY Grants, Helix, Itemlist + QRGenie + BarcodeCraft. 615 total deals.
@@ -560,7 +560,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 
 | Product | Description | Deal | Status |
 |---------|-------------|------|--------|
-| [No Starch Press](https://nostarch.com/) | Security, Linux, Python, hacking books | **40% OFF** sitewide (Nov 24 – Nov 29) | ⏳ |
+| [No Starch Press](https://nostarch.com/) | Security, Linux, Python, hacking books | **40% OFF** sitewide, no code needed (Nov 24 – Nov 29) | ✅ |
 | [Packt Publishing](https://www.packtpub.com/) | 7,500+ tech eBooks & videos | **50% OFF** eBooks | ⏳ |
 | [Manning](https://www.manning.com/) | LiveBook, MEAP early access | **45% OFF** daily deals running now | ⏳ |
 | [Humble Bundle](https://www.humblebundle.com/) | Games, books & software bundles | **Up to 90% OFF** PC games — FF7 Rebirth $7.50, Choice members extra 20% off | ✅ |
@@ -635,7 +635,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [EngageBay](https://www.engagebay.com/) | All-in-one CRM, marketing, sales | **40% OFF** all plans (Nov 9 – Dec 4) | ✅ |
 | [SimpleFill](https://simplefill.app) | Text expansion, AI actions & one-click form filling in your browser | **25% OFF** one-time plans ($29 → $21.75), code `LAUNCH` (Nov 10 – Dec 7) | ✅ |
 | [DailyRemote](https://dailyremote.com/get-started) | Remote job board with salary filters and daily job alerts | **39% OFF** Premium monthly, quarterly and yearly plans — code `BFBNRTZSY` (Nov 12 – Dec 1) | ✅ |
-| [palmscreen](https://www.palmscreen.app/black-friday/) | Native Mac screen recorder with auto-zoom, editor and screenshots | **34% OFF** ($19 instead of $29, one-time) — code `BLACKWEEK` (Nov 23 – Nov 30) | ⏳ |
+| [palmscreen](https://www.palmscreen.app/black-friday/) | Native Mac screen recorder with auto-zoom, editor and screenshots | **34% OFF** ($19 instead of $29, one-time) — code `BLACKWEEK` (Nov 23 – Nov 30) | ✅ |
 | [CleanClip](https://pricing.cleanclip.cc/src) | Mac clipboard manager | **30% OFF** — Standard $19.99 → $13.99, Pro $29.99 → $20.99, code `BF2026` (through Dec 15, 2026) | ✅ |
 | [ScreenSage Pro](https://screensage.pro) | Native Mac screen recorder | **Up to 53% OFF** — Pro $149 → $79.90 code `BFS2026P` (46%); Lifetime $449 → $209.90 code `BFS2026L` (53%) (through Dec 15, 2026) | ✅ |
 | [Parallels Desktop](https://www.parallels.com/) | Run Windows on Mac (VM) | **Up to 50% OFF** first year — Standard & Pro editions | ✅ |
@@ -736,7 +736,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [ZipWP](https://zipwp.com/) | AI WordPress website builder (from Astra team) | **Up to 47% OFF** all plans, from $79 (Nov 5 – Dec 7) | ✅ |
 | [GutSlider Pro](https://gutslider.com/) | WordPress Gutenberg slider block | **40% OFF** lifetime from $69, no code (Nov 5 – Dec 1) | ✅ |
 | [Elementor Pro](https://elementor.com/) | Drag-and-drop page builder | **Up to 40% OFF** Editor Pro & Elementor One (Nov 17 – Dec 1) | ✅ |
-| [WPForms](https://wpforms.com/) | Form builder | **Up to 70% OFF** all licenses (Nov 24 – Dec 2) | ⏳ |
+| [WPForms](https://wpforms.com/) | Form builder | **Up to 70% OFF** all licenses (Nov 24 – Dec 2) | ✅ |
 | [Crocoblock](https://crocoblock.com/) | JetPlugins suite for Elementor & Gutenberg | 💸 **50% OFF** lifetime — code `bfcroco2026` | ✅ |
 | [Gravity Forms](https://gravityforms.com/) | WordPress form builder | **40% OFF** Elite & Flow Ultimate | ✅ |
 | [Popup Maker Pro](https://wppopupmaker.com/) | WordPress popup & opt-in plugin | 💸 **50% OFF** first year — code `PMBFCM26` | ✅ |
