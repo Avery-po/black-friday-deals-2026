@@ -1,7 +1,7 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2023%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Total%20Deals-640-blue)](#)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2024%2C%202026-brightgreen)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-647-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -36,6 +36,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 
 ### 🆕 What's New (Updated Daily)
 
+- **Nov 24** — Merged 6 community PRs (#101–#104, #106–#107): RapStar Studio, 8kSec code fix, BitHut, Narva, Knitting Chart + Cross Stitch Pattern Maker, FlowSpeak. Added Invoice Mama from issue #105. 647 total deals.
 - **Nov 23 (PM2)** — Cross-ref pass #4 against 8 competitor repos. Added 15 curated deals: NextjsTemplates, TailTemplates, ShadcnSpace (dev), CapCut (90% OFF!), ClipUGC, Seedance AI (AI video), DuoTyping, Wordfully, Transcribee, Diagramly (AI writing), LottieGo (design), SocialBee (70% OFF marketing), Moosend (email), Jotform (60% OFF productivity), LiveReacting (streaming). Flipped OnlySecurity ⏳→✅ (confirmed at onlysecurity.com). Checked 3 new repos (Somi-AI, deal-signal, deal-radar). 638 total deals.
 - **Nov 23 (PM)** — Merged 7 community PRs (#90–#94, #97–#98): Toolbox for Mac, Highseat, Leelo, VibeShield, OmniForge Launch Suite, DataCheck, ImageToPES. Added CheckCam from issue #95. Flipped Options Matrix Pro + DigiCard Pro ⏳→✅. Updated No Starch Press (40% OFF, Nov 24–29). Cleaned ref/UTM params. 623 total deals.
 - **Nov 23** — Added 38 new deals across all categories. Flipped Humble Bundle, TradingView, Udemy, Paste ⏳→✅. Merged 4 community PRs (#86–#89): Waitlyze, AY Tenders + AY Grants, Helix, Itemlist + QRGenie + BarcodeCraft. 615 total deals.
@@ -499,6 +500,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [ClipUGC](https://clipugc.com/black-friday) | UGC-style videos for apps with AI influencers — paste your app link + screen recording | **50% OFF** any plan for first 2 months | ✅ |
 | [Seedance AI](https://www.seeddance.io/pricing) | AI video & image generator with Seedance 2.5, Kling, Veo, Hailuo & more in one workspace | **50% OFF** first year | ✅ |
 | [RapStar Studio](https://rapstarstudio.com/pricing) | Custom AI rap songs & 9:16 music videos: 5-Word Freestyle Studio (8 languages, 4-gear flow switches + acapella drop, no photo) & Lip-Sync Photo Rap MV | **30% OFF** with code `BF2026` — never-expiring credit packs ($9.90 → $6.93 / $24.90 → $17.43 / $59.90 → $41.93), guest orders ($4.90 → $3.43 / $9.90 → $6.93) & 1st mo Pro/Ultra (through Dec 1) | ✅ |
+| [Narva](https://narva.app/#pricing) | Topic, script or voiceover in, finished faceless YouTube video out | **30% OFF** first month of any plan — code `NARVA30` (Nov 23 – Nov 30) | ✅ |
 
 ### AI SEO & Marketing
 
@@ -891,6 +893,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [QuickBooks Online](https://quickbooks.intuit.com/) | Small business accounting | 💸 **70% OFF** for 3 months, all plans (new customers) — ends Nov 29 | ✅ |
 | [FreshBooks](https://www.freshbooks.com/) | Freelancer accounting | **80% OFF** 4 months — Lite $4.60/mo, Plus $8.60/mo, Premium $14/mo (Oct 14 – Dec 31) | ✅ |
 | [Invoice Factory](https://invoicefactory.app/) | Invoicing for freelancers & small businesses | 💸 **50% OFF** ($179.99 → $89.99) | ✅ |
+| [Invoice Mama](https://invoicemama.com/pricing) | AI invoicing for tradespeople, freelancers & small businesses | 💸 **50% OFF** every paid plan, auto-applied (through Dec 1) | ✅ |
 
 ### CRM & Sales
 
