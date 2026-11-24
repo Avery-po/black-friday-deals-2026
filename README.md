@@ -515,6 +515,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [RightBlogger](https://rightblogger.com/pricing?offer=bf2026) | AI blog writer that publishes to WordPress and other CMSs and flags old posts to fix from Search Console | 💸 **50% OFF** every annual plan for life, Solo $588 → $294/yr, Pro $828 → $414/yr, no code needed (Nov 17 – Dec 1) | ✅ |
 | [Directory Ideas](https://directoryideas.ai/) | Finds directory website ideas people actually search for (real Google search numbers), then first listings, outreach emails and a 7-day launch plan | ♾️ **33% OFF** lifetime ($89 → $59) — no code needed (Nov 21 – Nov 30) | ✅ |
 | [CrawlRaven](https://crawlraven.com/) | Joins Google Search Console, GA4 & site crawl into one prioritized SEO plan with keyword mapping | 💸 ♾️ **50% OFF** Lifetime — code `CRBFCM50` (Starter $95, Pro $195, Agency $295) | ✅ |
+| [EarlyLore](https://earlylore.com/pricing) | AI product discovery & competitive intelligence across 540K+ products, website traffic histories, Design DNA & 14 MCP tools | **25% OFF** Annual Year 1 (Pro ~~$144~~ $108/yr [$9/mo], Max ~~$384~~ $288/yr [$24/mo]; 1-Year Pass eligible; renews at $144/$384) — auto-applied or code `BF2026` (Nov 24 – Nov 30, 2026 PT) | ✅ |
 
 ### No BF Deal Expected
 
