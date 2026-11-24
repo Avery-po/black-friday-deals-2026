@@ -600,6 +600,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [LottieGo](https://lottiego.com/black-friday) | Shrinks Lottie JSON files and exports as MP4, transparent MOV or GIF (Mac) | 💸 ♾️ **50% OFF** Lifetime | ✅ |
 | [Knitting Chart](https://knittingchart.com/pricing) | Browser knitting chart maker for colorwork, lace and cable charts, photo-to-chart conversion and PDF export | ♾️ **32% OFF** Lifetime Pro — $40.12 one-time (was $59), no code, auto-applied (Nov 23 – Nov 30, 2026, Pacific time) | ✅ |
 | [The Cross Stitch Pattern Maker](https://thecrossstitchpatternmaker.com/pricing) | Browser photo-to-cross-stitch tool with stitch editing, DMC floss list and PDF export | ♾️ **32% OFF** Lifetime Pro — $40.12 one-time (was $59), no code, auto-applied (Nov 23 – Nov 30, 2026, Pacific time) | ✅ |
+| [Backdrop](https://cindori.com/backdrop) | Interactive live wallpapers for your Mac's Lock Screen and desktop | ♾️ **30% OFF** Lifetime $29.99 → $20.99, no code needed (Nov 24 – Dec 1) | ✅ |
 
 ### SEO & Marketing
 
@@ -688,6 +689,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Toolbox for Mac](https://mactoolbox.app/) | 102 native Mac tools in one app (video, PDF, images, transcribe), runs offline | **30% OFF** one-time licences ($19 → $13.30) — code `BLACKFRIDAY30` (Nov 25 – Dec 2) | ✅ |
 | [CheckCam](https://apps.apple.com/app/id6504442498) | Temporary photo reminders for iPhone — auto-deletes unless pinned | 💸 ♾️ **50% OFF** Lifetime (Nov 23 – Dec 2) | ✅ |
 | [Jotform](https://www.jotform.com/pricing/) | Drag-and-drop form builder with AI agents for registrations, orders & payments | 💸 **60% OFF** annual Bronze, Silver & Gold plans | ✅ |
+| [Sensei](https://cindori.com/sensei) | System performance monitoring for the Mac | 💸 ♾️ **50% OFF** $59 → $29.50, no code needed (Nov 24 – Dec 1) | ✅ |
 
 ### Automation
 
