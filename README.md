@@ -1,7 +1,7 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2024%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Total%20Deals-647-blue)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-652-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -36,8 +36,8 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 
 ### 🆕 What's New (Updated Daily)
 
-- **Nov 24** — Merged 6 community PRs (#101–#104, #106–#107): RapStar Studio, 8kSec code fix, BitHut, Narva, Knitting Chart + Cross Stitch Pattern Maker, FlowSpeak. Added Invoice Mama from issue #105. Flipped No Starch Press, WPForms, palmscreen ⏳→✅. 647 total deals.
-- **Nov 23 (PM2)** — Cross-ref pass #4 against 8 competitor repos. Added 15 curated deals: NextjsTemplates, TailTemplates, ShadcnSpace (dev), CapCut (90% OFF!), ClipUGC, Seedance AI (AI video), DuoTyping, Wordfully, Transcribee, Diagramly (AI writing), LottieGo (design), SocialBee (70% OFF marketing), Moosend (email), Jotform (60% OFF productivity), LiveReacting (streaming). Flipped OnlySecurity ⏳→✅ (confirmed at onlysecurity.com). Checked 3 new repos (Somi-AI, deal-signal, deal-radar). 638 total deals.
+- **Nov 24** — Merged 6 community PRs (#101–#104, #106–#107): RapStar Studio, 8kSec code fix, BitHut, Narva, Knitting Chart + Cross Stitch Pattern Maker, FlowSpeak. Added Invoice Mama from issue #105. Added AppSecEngineer, CrawlRaven, Timemator, Starlie, Clappia. Flipped No Starch Press, WPForms, palmscreen ⏳→✅. 652 total deals.
+- **Nov 23 (PM2)** — Added 15 curated deals: NextjsTemplates, TailTemplates, ShadcnSpace (dev), CapCut (90% OFF!), ClipUGC, Seedance AI (AI video), DuoTyping, Wordfully, Transcribee, Diagramly (AI writing), LottieGo (design), SocialBee (70% OFF marketing), Moosend (email), Jotform (60% OFF productivity), LiveReacting (streaming). Flipped OnlySecurity ⏳→✅. 638 total deals.
 - **Nov 23 (PM)** — Merged 7 community PRs (#90–#94, #97–#98): Toolbox for Mac, Highseat, Leelo, VibeShield, OmniForge Launch Suite, DataCheck, ImageToPES. Added CheckCam from issue #95. Flipped Options Matrix Pro + DigiCard Pro ⏳→✅. Updated No Starch Press (40% OFF, Nov 24–29). Cleaned ref/UTM params. 623 total deals.
 - **Nov 23** — Added 38 new deals across all categories. Flipped Humble Bundle, TradingView, Udemy, Paste ⏳→✅. Merged 4 community PRs (#86–#89): Waitlyze, AY Tenders + AY Grants, Helix, Itemlist + QRGenie + BarcodeCraft. 615 total deals.
 - **Nov 22** — Merged 13 community PRs (#72–#85) + issue #79: BatchMark, ConceptViz, Unraster, SpriteCanvas, Motionflare, Directory Ideas, 8kSec Academy, SerpWrap, Pitchlist, WPOS, Options Matrix Pro, SaaScaffold, ScribeToAny, MakeMidas, Comik AI. Flipped 5 deals ⏳→✅: Codecademy Pro (60% OFF), Namecheap (up to 99% OFF), Elementor Pro (40% OFF), Apple TV+ ($6.99/mo), Native Instruments Komplete (50% OFF). 570 total deals.
@@ -284,6 +284,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [KSEC Labs](https://labs.ksec.co.uk/black-friday-sale/) | RFID tools, lock picking kits & pentest hardware 🇬🇧 | **Up to £300 off**, 3-for-2 RFID cards (Nov 23–30) | ✅ |
 | [8kSec Academy](https://academy.8ksec.io/) | On-demand mobile & AI security training (CAISR, CMSE, OMSE, CISR, CASR) with hands-on labs | **15% OFF** all on-demand courses — code `BLACKFRIDAY15` (Nov 20 – Dec 4, 2026) | ✅ |
 | [Practical Android App Security Testing](https://www.coldedgetrainings.com/practical-android-app-security-testing) | Self-paced course for web pentesters on testing Android apps & APIs, with hands-on labs on a non-rooted device | ♾️ **$999 launch price** (rises to $1,499 on Dec 5), no code needed (Nov 19 – Dec 4) | ✅ |
+| [AppSecEngineer](https://appsecengineer.com/) | Hands-on AI security, AppSec & cloud security training with labs | **40% OFF** Pro Plus annual & Bootcamps — code `LEVELUP40` | ✅ |
 
 ### VPN Services
 
@@ -513,6 +514,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [AdCreative.ai](https://www.adcreative.ai/) | AI ad creative generation platform | 💸 **50% OFF** all annual plans — code `BLACKFRIDAY50` | ✅ |
 | [RightBlogger](https://rightblogger.com/pricing?offer=bf2026) | AI blog writer that publishes to WordPress and other CMSs and flags old posts to fix from Search Console | 💸 **50% OFF** every annual plan for life, Solo $588 → $294/yr, Pro $828 → $414/yr, no code needed (Nov 17 – Dec 1) | ✅ |
 | [Directory Ideas](https://directoryideas.ai/) | Finds directory website ideas people actually search for (real Google search numbers), then first listings, outreach emails and a 7-day launch plan | ♾️ **33% OFF** lifetime ($89 → $59) — no code needed (Nov 21 – Nov 30) | ✅ |
+| [CrawlRaven](https://crawlraven.com/) | Joins Google Search Console, GA4 & site crawl into one prioritized SEO plan with keyword mapping | 💸 ♾️ **50% OFF** Lifetime — code `CRBFCM50` (Starter $95, Pro $195, Agency $295) | ✅ |
 
 ### No BF Deal Expected
 
@@ -638,6 +640,8 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [palmscreen](https://www.palmscreen.app/black-friday/) | Native Mac screen recorder with auto-zoom, editor and screenshots | **34% OFF** ($19 instead of $29, one-time) — code `BLACKWEEK` (Nov 23 – Nov 30) | ✅ |
 | [CleanClip](https://pricing.cleanclip.cc/src) | Mac clipboard manager | **30% OFF** — Standard $19.99 → $13.99, Pro $29.99 → $20.99, code `BF2026` (through Dec 15, 2026) | ✅ |
 | [ScreenSage Pro](https://screensage.pro) | Native Mac screen recorder | **Up to 53% OFF** — Pro $149 → $79.90 code `BFS2026P` (46%); Lifetime $449 → $209.90 code `BFS2026L` (53%) (through Dec 15, 2026) | ✅ |
+| [Timemator](https://timemator.com/) | Automatic time tracking for Mac — records hours by project files, apps & websites | ♾️ **50% OFF** Lifetime ($39 → $19.50) — code `TM-BLACKFRIDAY26` | ✅ |
+| [Starlie](https://getstarlie.com/) | Native Mac client for Jira Cloud & self-hosted: JQL search, sprint boards, offline | ♾️ **50% OFF** Lifetime ($49.99 → $24.99) — Nov 24–Dec 1 | ✅ |
 | [Parallels Desktop](https://www.parallels.com/) | Run Windows on Mac (VM) | **Up to 50% OFF** first year — Standard & Pro editions | ✅ |
 | [MuteDeck](https://mutedeck.com/) | One-press mute/camera/share across Zoom, Teams & Meet | ♾️ **35% OFF** Lifetime — code `BFCM2026` (Nov 26 – Dec 12) | ✅ |
 | [Leave Me Alone](https://leavemealone.com/pricing/) | Unsubscribe from unwanted emails in one click, block senders, bundle newsletters into a digest | 💸 **83% OFF** Unlimited plan — $59/year instead of $30/month, every inbox you own, same price at renewal, no code (Nov 16 – Dec 8) | ✅ |
@@ -763,6 +767,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Webflow](https://webflow.com/) | Visual web development | **Up to 50% OFF** annual | ⏳ |
 | [Framer](https://www.framer.com/) | Design-to-code website builder | 3 free months on annual Pro | ⏳ |
 | [Bubble](https://bubble.io/) | No-code full-stack builder | Discount expected | ⏳ |
+| [Clappia](https://www.clappia.com/) | AI no-code platform to build web, Android & iOS apps for field teams & workflows | 💸 **50% OFF** all annual plans — code `BLACKFRD` (new customers) | ✅ |
 | [Siter.io](https://siter.io/) | No-code website builder with visual editor | **35% OFF** — code `BLACKFRIDAY35` (through Dec 1) | ✅ |
 | [App14](https://app14.appetite.studio/black-friday) | Done-for-you custom iOS & Android app, built and submitted in 14 days 🇬🇧 | **75% OFF** — Starter £3,999 → £999, Advanced £6,999 → £1,999, no code needed (until Nov 30) | ✅ |
 | [Systeme.io](https://blackfriday.systeme.io/) | All-in-one funnel builder, email marketing & course platform | **40% OFF** Startup $170/yr | ✅ |
