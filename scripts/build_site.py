@@ -165,6 +165,7 @@ def generate_html(categories):
     today = date.today().strftime("%B %d, %Y")
 
     cat_nav = ""
+    cat_tiles = ""
     cat_sections = ""
     skip_titles = ('retailer', 'contributing', 'past years', 'table of contents')
     global_seen = set()
@@ -189,6 +190,7 @@ def generate_html(categories):
                     cat_count += 1
                     global_seen.add(key)
         cat_nav += f'<a href="#{cat["id"]}" class="nav-chip">{emoji} {name} <span class="chip-count">{cat_count}</span></a>\n'
+        cat_tiles += f'<button class="cat-tile" data-cat="{cat["id"]}"><span class="tile-emoji">{emoji}</span><span class="tile-name">{escape(name)}</span><span class="tile-count">{cat_count} deals</span></button>\n'
 
         tables_html = ""
         for table in cat["tables"]:
@@ -231,13 +233,14 @@ def generate_html(categories):
 
             tables_html += f'{sub_heading}<div class="deal-grid">{rows_html}</div>'
 
-        cat_sections += f'''<section id="{cat["id"]}" class="category-section">
+        cat_sections += f'''<section id="{cat["id"]}" class="category-section" data-cat="{cat["id"]}">
   <h2 class="cat-title">{escape(cat["title"])}</h2>
   {tables_html}
 </section>
 '''
 
-    return HTML_TEMPLATE.replace("{{NAV_CHIPS}}", cat_nav) \
+    return HTML_TEMPLATE.replace("{{TILES}}", cat_tiles) \
+                        .replace("{{NAV_CHIPS}}", cat_nav) \
                         .replace("{{SECTIONS}}", cat_sections) \
                         .replace("{{TOTAL}}", str(total)) \
                         .replace("{{CONFIRMED}}", str(confirmed)) \
@@ -506,6 +509,50 @@ body {
   background: var(--bg-inset); border-radius: 6px; margin: 0.5rem 0;
 }
 
+/* Tile picker */
+.tile-section {
+  margin-bottom: 0.5rem;
+}
+.tile-heading {
+  font-size: 0.85rem; font-weight: 600; color: var(--fg-3);
+  text-transform: uppercase; letter-spacing: 0.06em;
+  margin-bottom: 0.75rem;
+}
+.tile-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 0.5rem; margin-bottom: 0.75rem;
+}
+.cat-tile {
+  display: flex; flex-direction: column; align-items: center;
+  gap: 0.15rem; padding: 0.75rem 0.5rem;
+  background: var(--bg-raised); border: 2px solid var(--border-light);
+  border-radius: 10px; cursor: pointer;
+  transition: all 0.15s; font-family: var(--font);
+  text-align: center;
+}
+.cat-tile:hover { border-color: var(--accent); transform: translateY(-1px); }
+.cat-tile.selected {
+  border-color: var(--accent); background: color-mix(in srgb, var(--accent) 8%, var(--bg-raised));
+  box-shadow: 0 0 0 1px var(--accent);
+}
+.tile-emoji { font-size: 1.5rem; line-height: 1; }
+.tile-name { font-size: 0.75rem; font-weight: 600; color: var(--fg); line-height: 1.2; }
+.tile-count { font-size: 0.65rem; color: var(--fg-3); }
+.tile-clear {
+  font-family: var(--font); font-size: 0.75rem; font-weight: 500;
+  color: var(--accent); background: none; border: none;
+  cursor: pointer; padding: 0.25rem 0;
+}
+.tile-clear:hover { text-decoration: underline; }
+
+@media (max-width: 600px) {
+  .tile-grid { grid-template-columns: repeat(3, 1fr); gap: 0.4rem; }
+  .cat-tile { padding: 0.6rem 0.3rem; }
+  .tile-emoji { font-size: 1.25rem; }
+  .tile-name { font-size: 0.7rem; }
+}
+
 /* Footer */
 footer {
   text-align: center; padding: 2rem 0 3rem;
@@ -562,6 +609,14 @@ footer a:hover { text-decoration: underline; }
       <svg viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
       Star on GitHub
     </a>
+
+    <div class="tile-section">
+      <p class="tile-heading">Pick your interests</p>
+      <div class="tile-grid">
+        {{TILES}}
+      </div>
+      <button class="tile-clear" id="clearTiles" hidden>Clear selection</button>
+    </div>
   </div>
 
   <div class="search-bar">
@@ -624,33 +679,61 @@ const deals = document.querySelectorAll('.deal-card');
 const sections = document.querySelectorAll('.category-section');
 const noResults = document.getElementById('noResults');
 const resultCount = document.getElementById('resultCount');
+const tiles = document.querySelectorAll('.cat-tile');
+const clearTilesBtn = document.getElementById('clearTiles');
 let activeFilter = 'all';
+let selectedCats = new Set();
+
+tiles.forEach(tile => {
+  tile.addEventListener('click', () => {
+    const cat = tile.dataset.cat;
+    if (selectedCats.has(cat)) {
+      selectedCats.delete(cat);
+      tile.classList.remove('selected');
+    } else {
+      selectedCats.add(cat);
+      tile.classList.add('selected');
+    }
+    clearTilesBtn.hidden = selectedCats.size === 0;
+    applyFilters();
+  });
+});
+
+clearTilesBtn.addEventListener('click', () => {
+  selectedCats.clear();
+  tiles.forEach(t => t.classList.remove('selected'));
+  clearTilesBtn.hidden = true;
+  applyFilters();
+});
 
 function applyFilters() {
   const q = search.value.toLowerCase().trim();
   const region = regionFilter.value;
   const audience = audienceFilter.value;
+  const hasCatFilter = selectedCats.size > 0;
   let visible = 0;
-  deals.forEach(card => {
-    const text = card.textContent.toLowerCase();
-    const status = card.dataset.status;
-    const cardRegion = card.dataset.region;
-    const cardAudience = card.dataset.audience;
-    const matchSearch = !q || text.includes(q);
-    const matchStatus = activeFilter === 'all' || status === activeFilter;
-    const matchRegion = region === 'all' || cardRegion === region;
-    const matchAudience = audience === 'all' || cardAudience === audience;
-    const show = matchSearch && matchStatus && matchRegion && matchAudience;
-    card.hidden = !show;
-    if (show) visible++;
-  });
+
   sections.forEach(sec => {
-    const cards = sec.querySelectorAll('.deal-card');
-    const anyVisible = Array.from(cards).some(c => !c.hidden);
+    const catMatch = !hasCatFilter || selectedCats.has(sec.dataset.cat);
+    sec.querySelectorAll('.deal-card').forEach(card => {
+      const text = card.textContent.toLowerCase();
+      const status = card.dataset.status;
+      const cardRegion = card.dataset.region;
+      const cardAudience = card.dataset.audience;
+      const matchSearch = !q || text.includes(q);
+      const matchStatus = activeFilter === 'all' || status === activeFilter;
+      const matchRegion = region === 'all' || cardRegion === region;
+      const matchAudience = audience === 'all' || cardAudience === audience;
+      const show = catMatch && matchSearch && matchStatus && matchRegion && matchAudience;
+      card.hidden = !show;
+      if (show) visible++;
+    });
+    const anyVisible = Array.from(sec.querySelectorAll('.deal-card')).some(c => !c.hidden);
     sec.hidden = !anyVisible;
   });
+
   noResults.hidden = visible > 0;
-  const hasFilter = q || activeFilter !== 'all' || region !== 'all' || audience !== 'all';
+  const hasFilter = q || activeFilter !== 'all' || region !== 'all' || audience !== 'all' || hasCatFilter;
   resultCount.textContent = hasFilter ? visible + ' deal' + (visible !== 1 ? 's' : '') : '';
 }
 
