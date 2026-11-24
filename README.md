@@ -1,12 +1,12 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2024%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Total%20Deals-669-blue)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-679-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 669 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
+The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 679 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
 
 > 🌐 **[Browse the deals on our website](https://shashankt255.github.io/black-friday-deals-2026/)** — searchable, filterable, mobile-friendly
 
@@ -36,6 +36,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 
 ### 🆕 What's New (Updated Daily)
 
+- **Nov 24 (PM2)** — Merged 9 community PRs (#111–#119): Kollab, Vaneform, Moordeck, BetterDisplay, Expandi, ShiftApp, BacklinkGenie, Grai, Tower update. Flipped MasterClass (50% OFF, expires Nov 25!), Disney+ & Hulu ($4.99/mo) ⏳→✅. Updated White Knight Labs details. 679 total deals.
 - **Nov 24 (PM)** — Merged 3 community PRs (#108–#110): Backdrop + Sensei (Cindori), EarlyLore, Termalin. Cross-referenced trungdq88 + twf-nikhila repos (+13 curated deals: Testomato, CtrlOps, Pickode, Stratos, TanStarter, CozyCommerce, GrayGrids, Dypt, CiteReady, Tantra, Posteady, natbox, CSA). Flipped Elegant Themes/Divi, Beehiiv, GeneratePress ⏳→✅. 669 total deals.
 - **Nov 24** — Merged 6 community PRs (#101–#104, #106–#107): RapStar Studio, 8kSec code fix, BitHut, Narva, Knitting Chart + Cross Stitch Pattern Maker, FlowSpeak. Added Invoice Mama from issue #105. Added AppSecEngineer, CrawlRaven, Timemator, Starlie, Clappia. Flipped No Starch Press, WPForms, palmscreen ⏳→✅. 652 total deals.
 - **Nov 23 (PM2)** — Added 15 curated deals: NextjsTemplates, TailTemplates, ShadcnSpace (dev), CapCut (90% OFF!), ClipUGC, Seedance AI (AI video), DuoTyping, Wordfully, Transcribee, Diagramly (AI writing), LottieGo (design), SocialBee (70% OFF marketing), Moosend (email), Jotform (60% OFF productivity), LiveReacting (streaming). Flipped OnlySecurity ⏳→✅. 638 total deals.
@@ -249,6 +250,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [CozyCommerce](https://cozycommerce.dev/pricing) | Next.js + Tailwind eCommerce kit with 100+ components | **50% OFF** — code `BLFCM2026` | ✅ |
 | [GrayGrids](https://graygrids.com/) | Developer templates, UI kits, boilerplates for Bootstrap, Tailwind & React | **Up to 80% OFF** — code `BLFCM2026` (Nov 16 – Dec 1) | ✅ |
 | [Moordeck](https://moordeck.com/pricing) | Local-first anti-detect browser with Zero-CDP AI control, 12-tool local MCP & CLI, macOS Apple Silicon & Linux x64 (Windows coming soon) | **25% OFF** Pro/Team Annual Year 1 (Pro ~~$108~~ **$81/yr** [$6.75/mo], Team ~~$348~~ **$261/yr** [$21.75/mo, 5 seats]; renews at $108/$348) — code `BF2026` auto-applied + **Founding Solo Lifetime ~~$129~~ $79** (39% off, first 200 seats) (Nov 24 – Nov 30, 2026 PT) | ✅ |
+| [Grai](https://grai.page) | Offline cadence gate that flags AI-writing tells in drafts before clients do | **30% OFF** first billing cycle, code `BF2026` (Nov 24 – Nov 30) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
@@ -276,7 +278,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [RedTeamLeaders](https://redteamleaders.com/) | Red team certifications | 💸 **50% OFF** all certs | ✅ |
 | [Practical TLS](https://www.practicalnetworking.net/) | TLS/SSL deep-dive by Practical Networking | 💸 **83% OFF** lifetime access ($297 → $50) | ✅ |
 | [Wireshark Labs](https://www.wiresharklabs.com/) | Wireshark Certified Associate labs | 💸 **50% OFF** WCA Labs ($199.99 → $99.99), Ranger Lab $249.99 → $179.99 — code `PACKETFRIDAY` (through Dec 1) | ✅ |
-| [White Knight Labs](https://whiteknightlabs.com/) | Offensive security certs (ARTOC, ODPC) | 💸 **50% OFF** all certs — starts Nov 27 | ⏳ |
+| [White Knight Labs](https://whiteknightlabs.com/) | Offensive security certs (ELPT, OADOC, ARTOC, ODPC, OAOTC, OGOTC, ASCPC) | 💸 **50% OFF** all certs + bundles & Academy passes — code `WKLBLACKFRIDAY26` (Nov 27 – Dec 18) | ⏳ |
 | [OnlySecurity](https://onlysecurity.com/black-friday/) | Cybersecurity courses & labs | **15% OFF** courses, Plus, Max — auto-applied (Nov 23 – Nov 30) | ✅ |
 | [SecurityPaths Academy](https://academy.securitypaths.com/) | WiFi pentesting (CWP) & recon (CRP) certifications with labs | **25% OFF** — code `blackfriday26` (Nov 21 – Nov 30) | ✅ |
 | [OffSec (OSCP)](https://www.offsec.com/) | OSCP+ training, PEN-200, labs & 2 exam attempts | **20% OFF** Learn One — $2,199/yr (reg $2,749, through Jan 4, 2027) | ✅ |
@@ -549,7 +551,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Educative.io](https://www.educative.io/) | Interactive text-based coding courses | **72% OFF** unlimited plans | ✅ |
 | [Codecademy Pro](https://www.codecademy.com/) | Interactive coding lessons | 💸 **60% OFF** Pro Annual & Student plans — code `BF2026` (Nov 19 – Dec 28) | ✅ |
 | [Pluralsight](https://www.pluralsight.com/) | Tech skills (cloud, security, dev) | ~50% OFF | ⏳ |
-| [MasterClass](https://www.masterclass.com/) | Celebrity-taught classes | **50% OFF** | ⏳ |
+| [MasterClass](https://www.masterclass.com/) | Celebrity-taught classes | **50% OFF** first year ($120 → $60), auto-applied (ends Nov 25 11:59 PM PT) | ✅ |
 | [ByteByteGo](https://bytebytego.com/) | System design interview prep by Alex Xu | **50% OFF** annual | ✅ |
 | [LabEx Pro (1 Year)](https://labex.io/checkout?type=2&coupon=2026BF30) | Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud | **30% OFF** — **$69.90** with code `2026BF30` (active now; ends Dec 7) | ✅ |
 | [LabEx Pro (2 Years)](https://labex.io/checkout?type=4&coupon=2026BF50) | Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud | **50% OFF** — **$99.90** with code `2026BF50` (active now; ends Dec 7) | ✅ |
@@ -966,7 +968,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 
 | Product | Description | Deal | Status |
 |---------|-------------|------|--------|
-| Disney+ & Hulu Bundle (With Ads) | Movies, shows, originals | ~$4.99/mo for 12 months (reg ~$12.99) | ⏳ |
+| Disney+ & Hulu Bundle (With Ads) | Movies, shows, originals | **$4.99/mo** for 12 months (reg $12.99/mo, save $96/yr) — new & eligible returning subscribers (through Nov 30) | ✅ |
 | [Apple TV+](https://tv.apple.com/) | Apple original content | **$6.99/mo** Black Friday deal (reg $12.99) | ✅ |
 | [Paramount+](https://www.paramountplus.com/) | CBS/Paramount streaming | 💸 **50% OFF** Premium annual ($69.99/yr, reg $139.99) — code `SAVEANNUAL50` | ✅ |
 | [Audible](https://www.audible.com/) | Audiobook subscription | 💸 **$0.99/mo** for 3 months + $20 credit (reg $8.99/mo) — ends Dec 28 | ✅ |
